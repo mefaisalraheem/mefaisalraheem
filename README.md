@@ -106,5 +106,5 @@ Every repository here represents a **system, not a tutorial**.
 
 If you're building a product or startup and need a developer who understands systems:
 
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/mefaisalraheem/
+ 
