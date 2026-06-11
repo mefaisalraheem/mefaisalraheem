@@ -47,13 +47,16 @@ I focus on **systems that solve business problems**, not just UI screens.
 - Flutter
 
 **Backend**
+- Swoole Server
+- Laravel
+- PHP
 - Node.js
 - Express / REST APIs
 - Firebase / PostgreSQL
 
 **Tools & Infra**
 - Docker (basic deployments)
-- Git / GitHub
+- Git / GitHub / Bitbucket
 - REST / WebSockets
 - Firebase services
 
@@ -64,7 +67,7 @@ I focus on **systems that solve business problems**, not just UI screens.
 ### SaaS & Dashboard Systems
 Built multi-role dashboards and admin systems with authentication, analytics, and workflow management.
 
-**Stack:** React, Node.js, PostgreSQL  
+**Stack:** Laravel, React, Node.js, PostgreSQL  
 **Focus:** Business process automation and data visibility
 
 ---
